@@ -38,7 +38,7 @@ Below are some screenshots of the app running on the emulator if you are still c
 ![Flashcard App Screenshot](Screenshot_2025.05.26_14.41.02.776.png)
 ![FLashcard App Screenshot](Screenshot_2025.05.26_14.41.23.051.png)
 
-##Thank you
+## Thank you
 Thank you for taking an interest to read all the way to the end. I hope you have a fantastic time with my app!!!
 
 
