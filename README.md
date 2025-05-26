@@ -35,6 +35,8 @@ To use the project, do the following:
 Below are some screenshots of the app running on the emulator if you are still confused or unsure
 ![Flashcard App Screenshot](Screenshot_2025.05.26_14.40.28.967.png)
 ![Flashcard App Screenshot](Screenshot_2025.05.26_14.40.42.041.png)
+![Flashcard App Screenshot](Screenshot_2025.05.26_14.41.02.776.png)
+
 
 
 
