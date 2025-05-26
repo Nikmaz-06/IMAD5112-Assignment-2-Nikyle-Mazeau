@@ -38,6 +38,9 @@ Below are some screenshots of the app running on the emulator if you are still c
 ![Flashcard App Screenshot](Screenshot_2025.05.26_14.41.02.776.png)
 ![FLashcard App Screenshot](Screenshot_2025.05.26_14.41.23.051.png)
 
+## Use of GitHub Actions
+Please note GitHub actions was used, refer to the blank yml file included.
+
 ## Thank you
 Thank you for taking an interest to read all the way to the end. I hope you have a fantastic time with my app!!!
 
