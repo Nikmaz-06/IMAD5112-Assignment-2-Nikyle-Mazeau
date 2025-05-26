@@ -10,7 +10,7 @@ This project is a flashcard learning project that was built along with a youtube
 * If you are on the younger side, it can also be used as a study tool for any history exams or tests coming up as it has challenging and engaging questions
 
 ## Watch the youtube tutorial!
-
+[Flashcard History App Tutorial](https://youtu.be/PTEFAblJ9Rg?si=F7buUU1kj4irYm5B)
 
 
 ## Language and Usage
