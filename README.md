@@ -14,3 +14,24 @@ This project is a flashcard learning project that was built along with a youtube
 
 
 ## Language and Usage
+
+This project was created using Android Kotlin studio language to create a simple true and false flashcard answering project
+
+To use the project, do the following:
+
+* Open the code onto your bluestacks emulator
+* A very simple User interface, One button on the opening page to be clicked
+* You will then be taken to the main flashcard screen
+* Read the question provided in White text
+* Click either true or false based on what answer you think is correct
+* The project will provide you with feedback whether your answer was correct or not, your score will be taken into account
+* Once you have reached the final question, click the "Your Score" button
+* This will take you to the final page of the project
+* Provide you with personalised feedback based on how you performed and give you your final score
+* Once you are done click the "Exit" button and your app will be closed
+
+## Screenshots/Images of the app running
+
+Below are some screenshots of the app running on the emulator if you are still confused or unsure
+
+
